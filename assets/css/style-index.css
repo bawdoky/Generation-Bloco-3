@@ -1,0 +1,78 @@
+/* Configurações para a página toda */
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #5d0680;
+}
+
+/* Configurações para o cabeçario */
+header{
+    text-align: center;
+    color: #f0ffff;
+    background-color: #5d0680;
+    padding: 20px;
+}
+
+h1{
+    margin: 0;
+}
+
+/* Configurações para o menu */
+nav{
+    text-align: center;
+    margin: 20px 0;
+    background-color: #5d0680;
+}
+a{
+    color: #1f88e4;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+section{
+    text-align: center;
+    margin: 20px 0;
+    background-color: #5d0680;
+}
+
+p{
+    color: #b7d7e7;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+/* Configurações para minha imagem */
+img{
+    width: 40%;
+    border-radius: 20px;
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #f0ffff;
+}
+
+div{
+    text-align: center;
+    margin: 20px 0;
+    background-color: #5d0680;
+}
+iframe{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 15px;
+    color:#be1d1d;
+    text-transform: uppercase;
+    background-color: #285266;
+    border-radius: 20px;
+
+    padding: 20 px;
+}
