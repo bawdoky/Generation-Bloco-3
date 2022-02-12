@@ -37,6 +37,7 @@ button{
 input{
     border-radius: 20px;
     background-color: #fdfdfd;
+    padding: 20 px;
 }
 textarea{
     border-radius: 20px;
@@ -57,7 +58,7 @@ h2{
 
 div{
     text-align: center;
-    margin: 20px 0;
+    margin: 20px;
     background-color: #29dfa8;
     color: #fdfdfd;
 }
